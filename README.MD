@@ -4,5 +4,12 @@
 <img src="https://eficazmarketing.com/wp-content/uploads/2021/02/Clubhouse_telas-1.png" alt="example">
 
 ## Techs
-[] HTML
-[] TailwindCSS
+
+* [ ]  HTML
+* [ ]  TailwindCSS
+
+## Author 
+
+**Alison Leonardo**
+
+- instagram: $guitar_alisson
